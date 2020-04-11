@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SpringProfileExample_Dev
+
+server:
+  port: 8086

@@ -1,0 +1,5 @@
+spring: 
+  cloud: 
+    config:
+      uri: https://dj-config-server.cfapps.io/
+      enabled: true

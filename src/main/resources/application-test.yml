@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SpringProfileExample_Test
+
+server:
+  port: 8087
